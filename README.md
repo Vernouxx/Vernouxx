@@ -24,7 +24,6 @@ I like to make hacking/pentest oriented tools._
 _OS:_
 
 <a href="#"><img src="https://img.shields.io/badge/Parrot_OS- 4.11-100000?style=for-the-badge&logo=Linux&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-<a href="#"><img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Parrot_Logo.png/632px-Parrot_Logo.png"></a>
 
 <a href="#"><img src="https://img.shields.io/badge/Windows_10-For editing and playing-100000?style=for-the-badge&logo=Windows&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
