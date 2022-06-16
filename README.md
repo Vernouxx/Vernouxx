@@ -14,7 +14,7 @@
 
 ##
 
-_Hello, my name is "fatal", I am an average programmer and a student of pentest | bouty hunt.
+_Hello, my name is "vernoux", I am an average programmer and a student of pentest | bouty hunt.
 I like to make hacking/pentest oriented tools._
 
 ##
