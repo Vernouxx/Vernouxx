@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=7759b5&height=300&section=header&text=Vernoux&fontSize=90&desc=I am a developer! (or trying to be)&animation=fadeIn&fontColor=ac7ed6&descSize=30"/>
 
-<img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=vernouxx&cc=000000&tc=7759b5&ic=9c6bff&bc=402773"/>
+<img id="vernouxperfil" src="https://github-stats-alpha.vercel.app/api/?username=vernouxx&cc=000000&tc=7759b5&ic=9c6bff&bc=402773"/>
 
 ##
 
