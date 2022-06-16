@@ -28,14 +28,6 @@ _OS:_
 
 <a href="#"><img src="https://img.shields.io/badge/Windows_10-For editing and playing-100000?style=for-the-badge&logo=Windows&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
-_Machine Information_
-
-<a href="#"><img src="https://img.shields.io/badge/Dell-OPTIPLEX_7090 [DDR4]-100000?style=for-the-badge&logo=Dell&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img src="https://img.shields.io/badge/RAM-6GB_2x8GB-100000?style=for-the-badge&logo=Dell&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img src="https://img.shields.io/badge/Process-Intel® Core™ i9-100000?style=for-the-badge&logo=Dell&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
 _Languages I program in_
 
 <a href="#"><img src="https://img.shields.io/badge/Python-Medium-100000?style=for-the-badge&logo=Python&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
@@ -77,48 +69,6 @@ _Programs I use for design_
 <a href="#"><img alt="Sony" src="https://img.shields.io/badge/SONY-VEGAS_PRO-100000?style=for-the-badge&logo=Sony&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
 <a href="#"><img alt="GIMP" src="https://img.shields.io/badge/GIMP-100000?style=for-the-badge&logo=GIMP&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-**My contacts:**
-
-<a href="malito:Vernoux@dnmx.org" target="_blank"><img alt="" src="https://img.shields.io/badge/DNMX-EMAIL-100000?style=for-the-badge&logo=&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://www.instagram.com/fatalledits/" target="_blank"><img alt="INSTAGRAM" src="https://img.shields.io/badge/Vernoux-INSTAGRAM-100000?style=for-the-badge&logo=INSTAGRAM&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://t.me/Vernoux" target="_blank"><img alt="TELEGRAM" src="https://img.shields.io/badge/Vernoux-TELEGRAM-100000?style=for-the-badge&logo=TELEGRAM&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://twitter.com/f4t4lsec" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/Vernoux-TWITTER-100000?style=for-the-badge&logo=twitter&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://www.youtube.com/channel/UCVroJZsK3Qrvtvnk7NCKn-A" target="_blank"><img alt="youtube" src="https://img.shields.io/badge/Vernoux-YOUTUBE-100000?style=for-the-badge&logo=youtube&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://t.me/+0GyvzDcKtwY2ODc5" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/archon-group-100000?style=for-the-badge&logo=telegram&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-_My teams | sites | and groups_
-
-<a href="https://archon.teamroot.com.br" target="_blank"><img alt="Windows Terminal" src="https://img.shields.io/badge/ARCHON-SITE-100000?style=for-the-badge&logo=Windows Terminal&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://teamroot.com.br/" target="_blank"><img alt="GNU bash" src="https://img.shields.io/badge/TEAM_ROOT-SITE-100000?style=for-the-badge&logo=GNU bash&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://Vernoux.keybase.pub/" target="_blank"><img alt="keybase" src="https://img.shields.io/badge/Vernoux-KEYBASE-100000?style=for-the-badge&logo=keybase&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href='https://www.youtube.com/channel/UCm1zkDjD_rqTn3GxS0gzzUg' target="_blank"><img alt='youtube' src='https://img.shields.io/badge/archon-youtube-100000?style=for-the-badge&logo=youtube&logoColor=7759b5&labelColor=212121&color=7759b5'/></a>
-
-_My friends_
-
-<a href="https://t.me/OmgGass" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/gass-telegram-100000?style=for-the-badge&logo=telegram&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://t.me/azz4_defalt" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/Defalt-telegram-100000?style=for-the-badge&logo=telegram&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://t.me/Helior11" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/helior-telegram-100000?style=for-the-badge&logo=telegram&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://github.com/pedrostyxx" target="_blank"><img alt="github" src="https://img.shields.io/badge/pedrostyxx-github-100000?style=for-the-badge&logo=github&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://github.com/JakePeraltah" target="_blank"><img alt="github" src="https://img.shields.io/badge/JAKE-github-100000?style=for-the-badge&logo=github&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://github.com/azz4defalt" target="_blank"><img alt="github" src="https://img.shields.io/badge/defalt-github-100000?style=for-the-badge&logo=github&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://github.com/Team-root" target="_blank"><img alt="github" src="https://img.shields.io/badge/team_root-github-100000?style=for-the-badge&logo=github&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://github.com/heIior" target="_blank"><img alt="github" src="https://img.shields.io/badge/helior-github-100000?style=for-the-badge&logo=github&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
 ##
 
