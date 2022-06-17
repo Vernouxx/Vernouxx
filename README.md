@@ -57,18 +57,6 @@ _Browsers_
 
 <a href="#"><img alt="Tor Browser" src="https://img.shields.io/badge/Tor_Browser-0.4.3.6 [Obviously to get into the onion network and camouflage myself.]-100000?style=for-the-badge&logo=Tor Browser&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
-_Programs I use for design_
-
-<a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/ADOBE-PHOTOSHOP-100000?style=for-the-badge&logo=Adobe Photoshop&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img alt="Adobe After Effects" src="https://img.shields.io/badge/ADOBE-AFTER_EFFECTS-100000?style=for-the-badge&logo=Adobe After Effects&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img alt="Cinema 4D" src="https://img.shields.io/badge/CINEMA-4D-100000?style=for-the-badge&logo=Cinema 4D&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img alt="Sony" src="https://img.shields.io/badge/SONY-VEGAS_PRO-100000?style=for-the-badge&logo=Sony&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img alt="GIMP" src="https://img.shields.io/badge/GIMP-100000?style=for-the-badge&logo=GIMP&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
 ##
 
 ## Thanks for accessing my profile, goodbye little friend!
