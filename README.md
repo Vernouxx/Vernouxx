@@ -91,16 +91,6 @@ I like to make hacking/pentest oriented tools.*
 
 <a href="#"><img alt="GIMP" src="https://img.shields.io/badge/GIMP-100000?style=for-the-badge&logo=GIMP&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
-*My teams | sites | and groups*
-
-<a href="https://archon.teamroot.com.br" target="_blank"><img alt="Windows Terminal" src="https://img.shields.io/badge/ARCHON-SITE-100000?style=for-the-badge&logo=Windows Terminal&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://teamroot.com.br/" target="_blank"><img alt="GNU bash" src="https://img.shields.io/badge/TEAM_ROOT-SITE-100000?style=for-the-badge&logo=GNU bash&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://fatalsec.keybase.pub/" target="_blank"><img alt="keybase" src="https://img.shields.io/badge/FATALSEC-KEYBASE-100000?style=for-the-badge&logo=keybase&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href='https://www.youtube.com/channel/UCm1zkDjD_rqTn3GxS0gzzUg' target="_blank"><img alt='youtube' src='https://img.shields.io/badge/archon-youtube-100000?style=for-the-badge&logo=youtube&logoColor=7759b5&labelColor=212121&color=7759b5'/></a>
-
 
 ##
 
